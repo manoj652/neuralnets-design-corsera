@@ -1,1 +1,1 @@
-# neuralnets-design-corsera
+# neuralnets-design-coursera
